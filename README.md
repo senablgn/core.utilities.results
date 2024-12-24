@@ -1,0 +1,1 @@
+The core.utilities.results package is a reusable library designed to simplify result handling in Java projects. It provides a standardized structure for managing success and error results, making your code cleaner and more maintainable.
